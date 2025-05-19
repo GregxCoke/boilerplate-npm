@@ -1,5 +1,6 @@
 {
 	"author": "Greg Coke",
+	"description": "A project tha does something awesome",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
