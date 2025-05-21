@@ -1,6 +1,10 @@
 {
 	"author": "Greg Coke",
 	"description": "A project tha does something awesome",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.2.0",
+
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
